@@ -9,8 +9,10 @@ The programs asks a series of questions on what kind of differennt attractions i
 ## screenshot of the code that has a list, loop, and function
 ![image](https://github.com/user-attachments/assets/0601b73a-d935-4187-b127-f0b9766968b3)
 
+- The list is called 'church_list' and it appends the name of the church the user delects after they select it
+- the function is called church_option and it asks what church you would like to see
+- and the loop is  while ask not in '("yes", "no"):' and it makes sure the user inputs yes or no 
+
 
 ## video of the code working 
-
-
 
