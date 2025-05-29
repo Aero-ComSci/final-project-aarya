@@ -15,4 +15,4 @@ The programs asks a series of questions on what kind of differennt attractions i
 
 
 ## video of the code working 
-
+https://drive.google.com/file/d/1XS66DHb73Gbngxnqs1p2G5TOWikC0i09/view?usp=sharing
